@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KMM Multiplatform</string>
+    <string name="skip_intro">Skip_Intro</string>
+    <string name="next">next</string>
+</resources>
